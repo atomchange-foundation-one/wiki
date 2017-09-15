@@ -6,4 +6,6 @@ FreeTeal Foundation One will start the development.
 
 FreeTeal Foundation one will exchange participation for tokens. 
 
-On initial phase, while tokens is not liquid enough yet, FreeTeal Foundation One will give out tokens considering base value for the token as 0.01 USD.
+On initial phase, while tokens is not liquid enough yet, FreeTeal Foundation One will give out tokens considering base value for the token as 0.01 USD. If market will start appreciate tokens more than 0.01 USD, Foundation will consider increased price its transactions. 
+
+Participation of each community member should be visible and reported in github, with the respective requst for renumeration attached. 
