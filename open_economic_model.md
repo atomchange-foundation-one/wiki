@@ -30,3 +30,16 @@ I want to do some project, that will benefit all token holders (community)?
 
 How do I get money?
 
+## Ways of funding
+* ICO/Separate funding campaign -> effectively creates new community
+* Emission (essentially equals to taxes) -> all community members pay
+
+## Decision making, simple
+Project submits proposal
+
+Community votes
+
+Project gets funded
+
+All community members (token holders get deluded little bit)
+
