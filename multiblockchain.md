@@ -83,7 +83,12 @@ Multiple validators can potentially participate in one swap (exchange operation)
 
 ## Picking up a validator
 
+User can set up a minimal score for picking up a validator for each swap. 
 
+Score of particular validator for a specific order is calcualted dynamically: 
+```
+FactualScore = ValidatorScore * (ValidatorStake/OrderSize)
+```
 
 
 
