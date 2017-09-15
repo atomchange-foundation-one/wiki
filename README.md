@@ -19,6 +19,8 @@ https://www.coindesk.com/cross-blockchain-trades-lightning-gives-new-life-atomic
 
 https://github.com/zcash-hackworks/zbxcat
 
-nvo.io
+https://nvo.io/
 
-cosmos.network
+https://cosmos.network/
+
+https://localbitcoins.com/
