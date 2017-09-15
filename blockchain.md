@@ -1,1 +1,16 @@
-## FreeTeal Blockchain
+# FreeTeal Blockchain
+
+## Concept
+
+FreeTeal Blockchain should be DPoS blockchain. 
+
+First of all, DPoS blockchain leaves ultimate power in the hands of community. 
+
+And second, DPoS consensus model allows to have fast enough platform due to limited amount of supporting nodes. 
+
+Each signing node is elected by token holders and receives fixed 'salary' in form of tokens set up for the supporting nodes.
+
+Blockchain layer keeps:
+1. FTT balance and transaction records
+2. Voting records
+3. 
