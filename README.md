@@ -13,7 +13,7 @@ For the architecture and design details, please see [Architecture](https://githu
 ---
 
 
-Links to useful sources:
+Links to useful resources:
 
 https://www.coindesk.com/bitcoin-meets-zcash-developers-test-tool-trustless-trades/ - can be potentially used in the future.
 
