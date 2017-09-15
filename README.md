@@ -23,7 +23,9 @@ For the architecture and design details, please see [Architecture](https://githu
 
 For the development and funding plan please check [this page](https://github.com/freeteal-foundation-one/wiki/blob/master/development_plan.md). 
 
-## Links to useful resources:
+## Links
+
+Here are some other projects, moving into similar directions, where we can find some good ideas.
 
 https://www.coindesk.com/bitcoin-meets-zcash-developers-test-tool-trustless-trades/ - can be potentially used in the future.
 
