@@ -14,7 +14,7 @@ We aim for a wide and open ecosystem, which initially will consist of:
 5. Blockchain transaction explorer with market, validator and user statistics and scores.
 
 Later can be added:
-1. Smart wallets
+1. Smart wallets and portfolio managers
 2. Seamless exhange gateways
 3. Seamless multicurrency payment processors
 
@@ -22,3 +22,8 @@ Later can be added:
 
 As an initial base, [Quorum](https://github.com/freeteal-foundation-one/quorum) can be used for first proof of concept.
 
+DPoS consesus and open economic model will be implemented as a smart contract (quorum moved consesus onto smart contract level).
+
+For the ethereum family chains we need to implement smart contract templates for validators.
+
+For the bitcoin family exchange should be performed with multisig wallets. 
