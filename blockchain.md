@@ -10,7 +10,11 @@ And second, DPoS consensus model allows to have fast enough platform due to limi
 
 Each signing node is elected by token holders and receives fixed 'salary' in form of tokens set up for the supporting nodes.
 
-Blockchain layer keeps:
+Blockchain keeps:
 1. FTT balance and transaction records
 2. Voting records
-3. 
+3. Governance rules
+4. Reputation scores
+5. Orderbook
+6. Trade history with links to transactions on other chains. 
+7. Other custom and user-deployed smart contracts
