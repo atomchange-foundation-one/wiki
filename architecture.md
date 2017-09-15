@@ -14,9 +14,9 @@ We aim for a wide and open ecosystem, which initially will consist of:
 5. Blockchain transaction explorer with market, validator and user statistics and scores.
 
 Later can be added:
-6. Smart wallets
-7. Seamless exhange gateways
-8. Seamless multicurrency payment processors
+1. Smart wallets
+2. Seamless exhange gateways
+3. Seamless multicurrency payment processors
 
 ## Tools
 
