@@ -17,11 +17,11 @@ All our activity and decisions supposed to be based on these five values.
 There are several elements mentioned in the definition:
 1. [Decentralized multiblockchain interaction and exchange platform](https://github.com/defree-foundation-one/wiki/blob/master/multiblockchain_interaction_platform.md)
 2. [FreeTeal Blockchain (DPoS ethereum modification initially)](https://github.com/freeteal-foundation-one/wiki/blob/master/blockchain.md)
-3. Open economic model
-
-Please check respective sections to read more details about each section of the DeFree ecosystem.
+3. [Open economic model](https://github.com/freeteal-foundation-one/wiki/blob/master/open_economic_model.md)
 
 For the architecture and design details, please see [Architecture](https://github.com/freeteal-foundation-one/wiki/blob/master/architecture.md)
+
+For the development and funding plan please check [this page](https://github.com/freeteal-foundation-one/wiki/blob/master/development_plan.md). 
 
 ## Links to useful resources:
 
