@@ -13,9 +13,9 @@ Please check respective sections to read more details about each section of the 
 
 Links to useful sources:
 
-https://www.coindesk.com/bitcoin-meets-zcash-developers-test-tool-trustless-trades/
+https://www.coindesk.com/bitcoin-meets-zcash-developers-test-tool-trustless-trades/ - can be potentially used in the future.
 
-https://www.coindesk.com/cross-blockchain-trades-lightning-gives-new-life-atomic-swaps/
+https://www.coindesk.com/cross-blockchain-trades-lightning-gives-new-life-atomic-swaps/ - can be potentially used in the future.
 
 https://github.com/zcash-hackworks/zbxcat
 
