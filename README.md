@@ -11,7 +11,7 @@ Please read and contemplate on the core values our community is based on, before
 4. Efforts should bring benefit to all community members
 5. Open dialog
 
-All our activity and decisions supposed to be based on these four values. 
+All our activity and decisions supposed to be based on these five values. 
 
 ## Building blocks
 There are several elements mentioned in the definition:
