@@ -8,7 +8,9 @@ There are three elements mentioned in the definition:
 
 Please check respective sections to read more details about each section of the DeFree ecosystem.
 
+For the architecture and design details, please see [Architecture](https://github.com/freeteal-foundation-one/wiki/blob/master/architecture.md)
 
+---
 
 
 Links to useful sources:
