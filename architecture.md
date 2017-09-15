@@ -5,12 +5,17 @@ Considering our values, all source code should be open source and available on m
 
 The platform should be modular and easily extendable.
 
-Ecosystem elements:
+## Ecosystem elements
+We aim for a wide and open ecosystem, which initially will consist of:
 1. Blockchain full nodes
 2. Light validator node
 3. Client wallet modules for each currency
 4. Basic wallet that will integrate client wallet modules
 5. Blockchain transaction explorer with market, validator and user statistics and scores.
+Later can be added:
+6. Smart wallets
+7. Seamless exhange gateways
+8. Seamless multicurrency payment processors
 
 ## Tools
 
