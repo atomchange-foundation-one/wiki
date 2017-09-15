@@ -7,3 +7,13 @@ There are three elements mentioned in the definition:
 3. Open economic model
 
 Please check respective sections to read more details about each section of the DeFree ecosystem.
+
+
+
+
+Links to useful sources:
+https://www.coindesk.com/bitcoin-meets-zcash-developers-test-tool-trustless-trades/
+https://www.coindesk.com/cross-blockchain-trades-lightning-gives-new-life-atomic-swaps/
+https://github.com/zcash-hackworks/zbxcat
+nvo.io
+cosmos.network
