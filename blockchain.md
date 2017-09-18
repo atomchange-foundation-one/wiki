@@ -19,5 +19,5 @@ Blockchain keeps:
 6. Trade history with links to transactions on other chains. 
 7. Other custom and user-deployed smart contracts
 
-Please check [architecture](https://github.com/freeteal-foundation-one/wiki/edit/master/architecture.md) for more details on the side of implementation.
+Please check [architecture](https://github.com/freeteal-foundation-one/wiki/blob/master/architecture.md) for more details on the side of implementation.
 
