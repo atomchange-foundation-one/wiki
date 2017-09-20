@@ -20,7 +20,7 @@ Later can be added:
 
 ## Tools
 
-As an initial base, [Quorum](https://github.com/freeteal-foundation-one/quorum) can be used for first proof of concept.
+As an initial base, [Quorum](https://github.com/atomchaneg-foundation-one/quorum) can be used for first proof of concept.
 
 DPoS consesus and open economic model will be implemented as a smart contract (quorum moved consesus onto smart contract level).
 
