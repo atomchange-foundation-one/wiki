@@ -21,9 +21,8 @@ There are several elements mentioned in the definition:
 
 ## Detailed documentation
 1. [Architecture](https://github.com/atomchange/wiki/blob/master/architecture.md)
-2. [Consensus model]()
+2. [Open consensus](https://github.com/atomchange/wiki/blob/master/open_consensus.md)
 3. [Emission model]()
-4. [Consensus changes]()
 
 ## Links
 
