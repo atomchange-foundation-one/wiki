@@ -19,7 +19,11 @@ There are several elements mentioned in the definition:
 2. [AtomChange Blockchain (DPoS ethereum modification initially)](https://github.com/atomchange/wiki/blob/master/blockchain.md)
 3. [Open economic model](https://github.com/atomchange/wiki/blob/master/open_economic_model.md)
 
-For the architecture and design details, please see [Architecture](https://github.com/atomchange/wiki/blob/master/architecture.md)
+## Detailed documentation
+1. [Architecture](https://github.com/atomchange/wiki/blob/master/architecture.md)
+2. [Consensus model]()
+3. [Emission model]()
+4. [Consensus changes]()
 
 ## Links
 
