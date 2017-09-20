@@ -1,7 +1,7 @@
-# FreeTeal
+# AtomChange
 
 ## Definition
-FreeTeal - is an open ecomonic model community, initially gathered around decentralized multiblockchain interaction and exchange platform.
+AtomChange - is an open ecomonic model community, initially gathered around decentralized multiblockchain interaction and exchange platform.
 
 ## Values
 Please read and contemplate on the core values our community is based on, before moving further:
@@ -15,13 +15,13 @@ All our activity and decisions supposed to be based on these five values.
 
 ## Building blocks
 There are several elements mentioned in the definition:
-1. [Decentralized multiblockchain interaction and exchange platform](https://github.com/defree-foundation-one/wiki/blob/master/multiblockchain_interaction_platform.md)
-2. [FreeTeal Blockchain (DPoS ethereum modification initially)](https://github.com/freeteal-foundation-one/wiki/blob/master/blockchain.md)
-3. [Open economic model](https://github.com/freeteal-foundation-one/wiki/blob/master/open_economic_model.md)
+1. [Decentralized multiblockchain interaction and exchange platform](https://github.com/atomchange-foundation-one/wiki/blob/master/multiblockchain_interaction_platform.md)
+2. [AtomChange Blockchain (DPoS ethereum modification initially)](https://github.com/atomchange-foundation-one/wiki/blob/master/blockchain.md)
+3. [Open economic model](https://github.com/atomchange-foundation-one/wiki/blob/master/open_economic_model.md)
 
-For the architecture and design details, please see [Architecture](https://github.com/freeteal-foundation-one/wiki/blob/master/architecture.md)
+For the architecture and design details, please see [Architecture](https://github.com/atomchange-foundation-one/wiki/blob/master/architecture.md)
 
-For the development and funding plan please check [this page](https://github.com/freeteal-foundation-one/wiki/blob/master/development_plan.md). 
+For the development and funding plan please check [this page](https://github.com/atomchange-foundation-one/wiki/blob/master/development_plan.md). 
 
 ## Links
 
@@ -38,3 +38,7 @@ https://nvo.io/
 https://cosmos.network/
 
 https://localbitcoins.com/
+
+https://twitter.com/decredproject/status/910224860625780736
+https://github.com/decred/dcps/blob/master/dcp-0002/dcp-0002.mediawiki
+https://bitcoinmagazine.com/articles/atomic-swaps-how-the-lightning-network-extends-to-altcoins-1484157052/
