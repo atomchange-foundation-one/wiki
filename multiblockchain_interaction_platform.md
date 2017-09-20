@@ -38,15 +38,15 @@ Both networks are ethereum-family.
 
 Validator participation can be implemented via smart contract that acts in a similar way of multisig address. 
 
-There are two contracts created on FreeTeal network and Ethereum network. 
+There are two contracts created on AtomChange network and Ethereum network. 
 
 Each contract receives funds from sender.
 
 As soon as each contracted credited with pre-agreed amount of tokens, Validator puts its signature and receiving side can claim newly acquired tokens
 
-## FTT to BTC exchange
+## ATM to BTC exchange
 
-FreeTeal network exchange implemented via smart contract, descibed above.
+AtomChange network exchange implemented via smart contract, descibed above.
 Bitcoin network exchange implemented via 2of3 multisig address on the bitcoin network with signing right from the Validator. 
 
 ## BTC to ETH exchange
@@ -55,15 +55,15 @@ After both of above case are implemented, BTC to ETH exchange also becomes possi
 
 ## Orderbook
 
-Global Orderbook is kept in FreeTeal blockchain. 
+Global Orderbook is kept in AtomChange blockchain. 
 
-Considering that FreeTeal is a DPoS system, we can achieve tolerable speed for the initial phase of the project. 
+Considering that AtomChange is a DPoS system, we can achieve tolerable speed for the initial phase of the project. 
 
 ## Scoring system
 
 Both users and validators have reputation score.
 
-Validator who keeps bigger amount of FTT tokens at stake have bigger score. 
+Validator who keeps bigger amount of ATM tokens at stake have bigger score. 
 
 Validator who performed more exchanges have bigger score.
 
@@ -73,7 +73,7 @@ Score of the validator and the user can be downvoted by other users.
 
 ## Security of operations
 
-First and main security measure is a stake requirement for the Validator: validator should keep some amount of FTT tokens at stake. 
+First and main security measure is a stake requirement for the Validator: validator should keep some amount of ATM tokens at stake. 
 
 In case of security breach or lost funds, upon user complain, consensus of other validators can sweep out the stake of failed validator. 
 
