@@ -21,8 +21,6 @@ There are several elements mentioned in the definition:
 
 For the architecture and design details, please see [Architecture](https://github.com/atomchange/wiki/blob/master/architecture.md)
 
-For the development and funding plan please check [this page](https://github.com/atomchange/wiki/blob/master/development_plan.md). 
-
 ## Links
 
 Here are some other projects, moving into similar directions, where we can find some good ideas.
