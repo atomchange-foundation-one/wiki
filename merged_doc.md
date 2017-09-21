@@ -51,11 +51,52 @@ In order to minimize risks of chain fork, we have to design such governance syst
 
 During the system launch, in the genesis block there will be 21 predefined nodes who will have the right to sign blocks.
 
-For the each signed block, full node will be receiving 10 ATM tokens as a block reward.
+Initially, for the each signed block, full node will be receiving 10 ATM tokens as a block reward.
 
-All token holders will be able to initiate voting to elect and assign new signing nodes or fire existing ones. 
+All token holders can initiate voting to elect and assign new signing nodes, up to 108, or fire existing ones.
+
+Consensus rules themselves implemented as a smart contract and all token holders can initiate voting for migration into new consensus contract.
+
+## Technical properties
+AtomChange blockchain is based on ethereum fork as the most convenient general-purpose smart contract platform. However, we understand that its performance is very limited. One of the main development priorities will be improving platform performance: increasing block speed and increasing transaction capacity.
 
 # Open Economic Model
+
+ Open Economic Model designed in order optimize issuance mechanics of public economic networks and give the ability to deploy new non-profit (general welfare) and for-profit projects on top of already existing networks.
+
+## Problems with existing economic models
+ Fiat systems:
+ * Not Transparent
+ * Not controllable by public
+ * Capable of doing some welfare efforts (government -> taxes -> social welfare projects), but often not very effective (corruption, bureaucracy, absence competition)
+
+Established Blockchain Networks:
+ * Transparent
+ * Controllable by public (community)
+ * Not set up for general-welfare projects (infective mining and emission algorithms)
+ * No effective incentives to develop existing network
+
+New Blockchain Networks set up through an ICO (Token Generation Events):
+* An ICO event essentially creates new separated community instead of expanding existing one
+* Unreasonable funding targets (projects trying to raise much more than they need in order to reach to next milestone)
+* No effective incentives to develop existing network
+* Hight risks and high percentage of scam projects
+
+## Desired properties
+After analyzing the current landscape of solutions, we can form the list of desired properties for the new system:
+* Effective incentives to improve existing network
+* Milestone-based, iterative funding for new projects
+* Full transparency
+* Ultimate power in the hands of the community
+* Effective was to incorporate both non-proft (general welfare) and for-profit (commercial) projects into community economy
+
+Example use cases:
+* Set up several foundations of independent groups of developers for the codebase improvements
+* Build roads in the city
+* Finance community-owned commercial enterprise
+* Build hospital for the community
+* Implement new project that is fully tied to the root tokens with new utility and the market, for example, Golem project, instead of issuing new token could tie its functionality directly to Ether. 
+
 
 ## Empowering You
 Community members have real power
@@ -77,16 +118,6 @@ Community can change consensus model
 And… Community can issue new tokens
 
 Stop. What?
-
-## Problems with existing solutions
-Old System:
-* Not Transparent, not controllable by public
-* Still doing some welfare efforts (government -> taxes -> social welfare projects)
-
-Existing Blockchain Networks
-* Transparent
-* Controllable by public
-* Not set up for general-welfare projects
 
 ## What if?
 I want to do some project, that will benefit all token holders (community)?
