@@ -95,50 +95,38 @@ Example use cases:
 * Build roads in the city
 * Finance community-owned commercial enterprise
 * Build hospital for the community
-* Implement new project that is fully tied to the root tokens with new utility and the market, for example, Golem project, instead of issuing new token could tie its functionality directly to Ether. 
+* Implement new project that is fully tied to the root tokens with new utility and the market, for example, Golem project, instead of issuing new token could tie its functionality directly to Ether.
 
+## Emission model
+If we take analogy to the known things, emission of new tokens is essentially equal to the all community members paying taxes.
 
-## Empowering You
-Community members have real power
+Burning tokens (destroying existing ones) is similar to paying dividends to all existing token holders. When you extract some amount of tokens from the open market, this act will increase economic value of the remaining tokens.
 
-1 token = 1 vote power
+Community have the ultimate power and emission (funding) events happen according to tokenholders voting. We call it `community funding contract`. In fact, `community funding contract` is not a direct issuing event, but it is a 'license' for the managers of the project to issue certain amount of tokens.
 
-Delegated Proof of Stake Consensus
+`Community funding contracts` can vary in properties.
 
-Community elects number of delegates, who in turn runs efficient decentralized network
+Amount limits for the `community funding contract` can be:
+* Specified in ATM tokens
+* Specified in stable value equivalent, we use labour-hour rate as a most stable value (implemented through the pricefeed published by signing nodes)
 
-Delegates can be added/revoked by a community at any time
+In most cases there is no need to issue large amount of tokens at once. Most of the projects require regular ongoing funding. Therefore `community funding contract` can have multiple timeframe based limits - daily, monthly, yearly, lifetime, etc. Examples:
+* 100 000 tokens total
+* 100 labour-hour per month during the next 12 months
+* 500 labour-hour per month, without end time
 
-Delegates receives decent fixed salary (newly issued coins) set by a community
+Any `community funding contract` can be revoked on community voting. This is required to prevent further funding of failing projects, block compromised contracts or unscrupulous project managers.
 
-Community can change the rules
+## Board of Guardians
 
-Community can change consensus model
+`Board of Guardians` is group consisting from 3 to 12 community members elected by all tokenholders. The responsibility of the board is to approve any community community voting requests. This is required to avoid low quality, scam or malicious voting proposals.
 
-And… Community can issue new tokens
+## Decision making
+Anyone can submit a funding proposal, following predefined format.
 
-Stop. What?
-
-## What if?
-I want to do some project, that will benefit all token holders (community)?
-* Develop new opensource wallet for the community?
-* Build roads in the community?
-
-How do I get money?
-
-## Compaing Ways of funding
-ICO/Separate funding campaign -> effectively creates new community
-
-Emission (essentially equals to taxes) -> all community members pay
-
-## Decision making, simple
-Project submits proposal
-
-Community votes
-
-Project gets funded
-
-All community members (token holders get deluded little bit)
+Each funding proposal should include:
+1. Detailed description of the project, problem and goals
+2.
 
 ## Decision making, advanced
 What if community grows too big?
