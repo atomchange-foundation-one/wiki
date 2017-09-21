@@ -16,14 +16,9 @@ All our activity and decisions supposed to be based on these five values.
 
 ## Building blocks
 There are several elements mentioned in the definition:
-1. [Decentralized multiblockchain interaction and exchange platform](https://github.com/atomchange/wiki/blob/master/multiblockchain_interaction_platform.md)
-2. [AtomChange Blockchain (DPoS ethereum modification initially)](https://github.com/atomchange/wiki/blob/master/blockchain.md)
-3. [Open economic model](https://github.com/atomchange/wiki/blob/master/open_economic_model.md)
-
-## Detailed documentation
-1. [Architecture](https://github.com/atomchange/wiki/blob/master/architecture.md)
-2. [Open consensus](https://github.com/atomchange/wiki/blob/master/open_consensus.md)
-3. [Emission model]()
+1. AtomChange Blockchain - is a Delegated Proof of Stake general-purpose public decentralized blockchain.
+2. Open economic model, as a way to expand and enrich ecosystem. 
+3. Decentralized multiblockchain interaction and exchange platform, as a first application implemented on the platform.
 
 # Architecture
 
