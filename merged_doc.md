@@ -37,18 +37,23 @@ Eventually, fork is an event, when some part of the community does not agrees wi
 We do not see forks as an issue. Diversity is pre-requirement for the freedom of choice, the basic human right.
 
 Diversity creates problems only if there is an isolation. If there is free interaction between multiple platforms, open flow of ideas and values, diversity actually increases general well-being by offering more choice.
-Therefore we are building this platform. 
+Therefore we are building this platform.
 
 ## Basic consensus
 The version of the platform end users accessing depends on a which version signing nodes (full nodes) running.
-But ultimately if the platform have too many nodes in brings a lot of issues related to speed and syncronization.
+But ultimately if the platform have too many nodes in brings a lot of issues related to speed and synchronization.
 
-We belive that Delegated Proof of Stake system is the optimal solution, existing and tested today.
+We believe that Delegated Proof of Stake system is the optimal solution, existing and tested so far today.
 
 Delegated Proof of Stake means all tokenholders can vote and elect nodes who is in their turn, responsible for the running full nodes with proper version of the software.
 
-## 1. System Launch
-Initial 21 full node runners download the software and join the network. They get 10 tokens per mined block.
+In order to minimize risks of chain fork, we have to design such governance system that is highly flexible and provides maximum power directly to the end users. This is possible if there will be an instruments to change basic properties of the system on user voting event.
+
+During the system launch, in the genesis block there will be 21 predefined nodes who will have the right to sign blocks.
+
+For the each signed block, full node will be receiving 10 ATM tokens as a block reward.
+
+All token holders will be able to initiate voting to elect and assign new signing nodes or fire existing ones. 
 
 # Open Economic Model
 
