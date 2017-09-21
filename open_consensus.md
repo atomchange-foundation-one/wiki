@@ -18,3 +18,6 @@ But ultimately if the platform have too many nodes in brings a lot of issues rel
 We belive that Delegated Proof of Stake system is the optimal solution, existing and tested today. 
 
 Delegated Proof of Stake means all tokenholders can vote and elect nodes who is in their turn, responsible for the running full nodes with proper version of the software. 
+
+## 1. System Launch
+Initial 21 full node runners download the software and join the network. They get 10 tokens per mined block. 
