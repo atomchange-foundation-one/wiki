@@ -335,11 +335,6 @@ FactualScore = ValidatorScore * (ValidatorStake/OrderSize)
 
 
 
-
-
-
-
-
 ## Links
 
 Here are some other projects, moving into similar directions, where we can find some good ideas.
