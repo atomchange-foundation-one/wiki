@@ -113,7 +113,7 @@ Amount limits for the `community funding contract` can be:
 In most cases there is no need to issue large amount of tokens at once. Most of the projects require regular ongoing funding. Therefore `community funding contract` can have multiple timeframe based limits - daily, monthly, yearly, lifetime, etc. Examples:
 * 100 000 tokens total
 * 100 labour-hour per month during the next 12 months
-* 500 labour-hour per month, without end time
+* 500 labour-hour per month, without end time specified (until community will revoke the contract)
 
 Any `community funding contract` can be revoked on community voting. This is required to prevent further funding of failing projects, block compromised contracts or unscrupulous project managers.
 
