@@ -127,9 +127,15 @@ Each voting have `15 days` voting time window. Voting is considered successful w
 
 Inactive addresses who did not participate in the voting are fined with `1% inactivity tax`.  
 
-Voters, who voted against majority are fined with `0.01% minority tax`. This is required to discourage automatic (bot) voting.  
+Voters, who voted against majority are fined with `minority tax`. This is required to discourage automatic (bot) voting.  
 
-It is expected, that not everyone will be able to follow up community voting requests. To do this properly, it will take time and expertise. Therefore, voting power of an account can be delegated to another account. We call such accounts `community activists`. If `community activity` votes against majority, `0.01% minority tax` applies proportionately to all his electorate.
+`Minority tax` is calculated in the following way:
+```
+contractMaxIssuance = maximum amount of tokens could  be issued by the funding contract in next 12 month
+minorityTax =  contractMaxIssuance / tokensInExistance * 0.05
+```
+
+It is expected, that not everyone will be able to follow up community voting requests. To do this properly, it will take time and expertise. Therefore, voting power of an account can be delegated to another account. We call such accounts `community activists`. If `community activity` votes against majority, `minority tax` applies proportionately to all his electorate.
 
 An additional `qualification tax` applies to the `community activist` in case of minority voting.
 `Qualification tax = minority tax collected from electorate * 0.2`
