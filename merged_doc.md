@@ -154,6 +154,41 @@ Each issuance and spending transaction should be published and explained.
 
 In case community is not satisfied with the level of transparency, spending directions or any other properties of the project, it can revoke `community funding contract`.
 
+### Non-profit projects
+Can be non-profit:
+* Dispatches funds into non-refundable community-welfare project
+
+Examples:
+* Deploying cross-continental data cable
+* Promoting token of the community and expanding community
+* Building roads in the community
+* Further development of the blockchain
+* Building free hospital in the community
+
+### For-profit projects
+Community dividends:
+
+Burning community tokens essentially equals to paying out dividends to all community members
+
+If the for-profit community-funded project eventually in due course of its economic activity burns more tokens, than was issued to it, the project increases general welfare
+
+Can have legally or technically (smart contract) defined % reward for project managers
+
+## Implications/assumptions
+No such models exists on any viable scale
+
+DAOs based on Open Economic model can scale and grow faster than other types of DAOs
+
+Wealth distribution will become much more smooth than with current models
+
+Society will become more open, transparent and responsible
+
+Open Economic Model can supply social welfare needs and deploy general well-being in much more efficient way, than existing government-tax model
+
+Open Economic model can, and probably will replace state-centric society organization
+
+
+
 # Architecture
 
 ## Principles
