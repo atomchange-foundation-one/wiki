@@ -188,28 +188,17 @@ Open Economic Model can supply social welfare needs and deploy general well-bein
 Open Economic model can, and probably will replace state-centric society organization
 
 
+# AtomChange Exchange Platform
 
-# Architecture
+## Intro
 
-## Principles
-Considering our values, all source code should be open source and available on most free license.
+We believe blockchain ecosystem have a unavoidable need for multiblockchain interaction platforms in order to make a next step and the development of the industry.
 
-The platform should be modular and easily extendable.
+At he moment there are tens of very advanced distributed blockchain platforms but there is no way to interact for them except through centralized platforms.
 
-## Ecosystem elements
-We aim for a wide and open ecosystem, which initially will consist of:
-1. Blockchain full nodes
-2. Light validator node
-3. Client wallet modules for each currency
-4. Basic wallet that will integrate client wallet modules
-5. Blockchain transaction explorer with market, validator and user statistics and scores.
+All the centralized exchanges bears full pack of respective risks and inconvenience connected with central point of attack and control.
 
-Later can be added:
-1. Smart wallets and portfolio managers
-2. Seamless exhange gateways
-3. Seamless multicurrency payment processors
-
-# AtomChange Blockchain
+Our goal is to make an open, easily extandable platform and standard for multiblockchain interaction. We do not want to work several years on something that will turn out impractical. We want to implement the system step by step in short milestones that would be usable by community by themselves.
 
 ## Concept
 
@@ -242,15 +231,24 @@ For the ethereum family chains we need to implement smart contract templates for
 
 For the bitcoin family exchange should be performed with multisig wallets.
 
-# Multiblockchain interaction platform
+## Architecture Principles
 
-We believe blockchain ecosystem have a unavoidable need for multiblockchain interaction platforms in order to make a next step and the development of the industry.
+Considering our values, all source code should be open source and available on most free license.
 
-At he moment there are tens of very advanced distributed blockchain platforms but there is no way to interact for them except through centralized platforms.
+The platform should be modular and easily extendable.
 
-All the centralized exchanges bears full pack of respective risks and inconvenience connected with central point of attack and control.
+## Ecosystem elements
+We aim for a wide and open ecosystem, which initially will consist of:
+1. Blockchain full nodes
+2. Light validator node
+3. Client wallet modules for each currency
+4. Basic wallet that will integrate client wallet modules
+5. Blockchain transaction explorer with market, validator and user statistics and scores.
 
-Our goal is to make an open, easily extandable platform and standard for multiblockchain interaction. We do not want to work several years on something that will turn out impractical. We want to implement the system step by step in short milestones that would be usable by community by themselves.
+Later can be added:
+1. Smart wallets and portfolio managers
+2. Seamless exhange gateways
+3. Seamless multicurrency payment processors
 
 ## Exchange Roadmap
 
