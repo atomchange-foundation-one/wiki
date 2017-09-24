@@ -131,7 +131,7 @@ Voters, who voted against majority are fined with `minority tax`. This is requir
 
 `Minority tax` is calculated in the following way:
 ```
-contractMaxIssuance = maximum amount of tokens expected to be issued by the funding contract in next 12 month
+contractMaxIssuance = maximum amount of tokens can be issued by the funding contract in next 12 months
 minorityTax =  contractMaxIssuance / tokensInExistance * 0.05
 ```
 
