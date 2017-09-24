@@ -135,10 +135,12 @@ contractMaxIssuance = maximum amount of tokens can be issued by the funding cont
 minorityTax =  contractMaxIssuance / tokensInExistance * 0.05
 ```
 
-It is expected, that not everyone will be able to follow up community voting requests. To do this properly, it will take time and expertise. Therefore, voting power of an account can be delegated to another account. We call such accounts `community activists`. If `community activity` votes against majority, `minority tax` applies proportionately to all his electorate.
+It is expected, that not everyone will be able to follow up community voting requests. To do this properly, it will take time and expertise. Therefore, voting power of an account can be delegated to another account. We call such accounts `community activists`. If `community activist` votes against majority, `minority tax` applies proportionately to all his electorate.
 
 An additional `qualification tax` applies to the `community activist` in case of minority voting.
-`Qualification tax = minority tax collected from electorate * 0.2`
+```
+Qualification tax = minority tax collected from electorate * 0.2
+```
 
 `Community activist` is allowed to vote only if he keeps at stake amount of tokens, sufficient to pay `qualification tax` in case of minority voting.
 

@@ -11,18 +11,10 @@ Please read and contemplate on the core values our community is based on, before
 4. Efforts should bring benefit to all community members
 5. Open dialog
 
-All our activity and decisions supposed to be based on these five values. 
+All our activity and decisions supposed to be based on these five values.
 
-## Building blocks
-There are several elements mentioned in the definition:
-1. [Decentralized multiblockchain interaction and exchange platform](https://github.com/atomchange/wiki/blob/master/multiblockchain_interaction_platform.md)
-2. [AtomChange Blockchain (DPoS ethereum modification initially)](https://github.com/atomchange/wiki/blob/master/blockchain.md)
-3. [Open economic model](https://github.com/atomchange/wiki/blob/master/open_economic_model.md)
-
-## Detailed documentation
-1. [Architecture](https://github.com/atomchange/wiki/blob/master/architecture.md)
-2. [Open consensus](https://github.com/atomchange/wiki/blob/master/open_consensus.md)
-3. [Emission model]()
+## Whitepaper
+Please see our basic concept in the [Whitepaper](whitepaper.md)
 
 ## Links
 
