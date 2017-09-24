@@ -120,101 +120,39 @@ Any `community funding contract` can be revoked on community voting. This is req
 ## Board of Guardians
 
 `Board of Guardians` is group consisting from 3 to 12 community members elected by all tokenholders. The responsibility of the board is to approve any community community voting requests. This is required to avoid low quality, scam or malicious voting proposals.
+Each member of the board receives 'salary', defined by a community via board-targeted `community funding contract`.
 
-## Decision making
-Anyone can submit a funding proposal, following predefined format.
+## Voting rules
+Each voting have `15 days` voting time window. Voting is considered successful with any rate of participation.
 
-Each funding proposal should include:
-1. Detailed description of the project, problem and goals
-2.
+Inactive addresses who did not participate in the voting are fined with `1% inactivity tax`.  
 
-## Decision making, advanced
-What if community grows too big?
+Voters, who voted against majority are fined with `0.01% minority tax`. This is required to discourage automatic (bot) voting.  
 
-Decision making process is not efficient
+It is expected, that not everyone will be able to follow up community voting requests. To do this properly, it will take time and expertise. Therefore, voting power of an account can be delegated to another account. We call such accounts `community activists`. If `community activity` votes against majority, `0.01% minority tax` applies proportionately to all his electorate.
 
-Too many scam projects will be submitted
+An additional `qualification tax` applies to the `community activist` in case of minority voting.
+`Qualification tax = minority tax collected from electorate * 0.2`
 
-Low voting participation
+`Community activist` is allowed to vote only if he keeps at stake amount of tokens, sufficient to pay `qualification tax` in case of minority voting.
 
-Low average qualification of the community
+All applicable taxes does not redistribute tokens, but only burns them.
 
-## Guardian Boards
-Community can elect Guardian Boards
+`Community activist` can set a fee, payable by his electorate on each voting.  
 
-Guardian Boards can be multi-level or segmented by expertise
+## Community voting requests
 
-Project submits proposal
+###  Declaration of Values
+Community have declaration of values.
 
-Guardian Board approves/bans project (filtering bad ones)
+Projects wishing to submit community funding request, have to comply with the declaration.
 
-Community votes on approved project
+### Funding direction
+Community funded projects spend funds on anything beyond stated mission.
 
-Project gets funded
+Each issuance and spending transaction should be published and explained.
 
-## Community Activists
-Voting power of an account can be trusted to another one
-
-Active voting can be stimulated with small rewards
-
-Missed voting can be punished with small tax, thus stimulating token holders either actively vote or delegate their voting power
-
-Community Activists subgroup emerges out of the community (more qualified community members who regularly vote on projects, pursuing general well-being)
-
-Community Activists can share part of voting reward to voting power owner
-
-## Declaration of Values
-Community have declaration of values
-
-Projects have to comply with the declaration
-
-Open and transparent: projects should have completely transparent and public operations
-
-Neutral and do-good: should not discriminate members of community and should bring benefit for all community members
-
-Have ‘Community Project’ legal properties
-
-## Legal properties
-Cannot spend received funds on anything beyond stated mission
-
-Should be legally or technically (smart contract) obliged to utilize funds in way stated to community during voting
-
-Managers can define their compensation before putting the project on voting
-
-## Non-profit projects
-Can be non-profit:
-* Dispatches funds into non-refundable community-welfare project
-
-Examples:
-* Deploying cross-continental data cable
-* Promoting token of the community and expanding community
-* Building roads in the community
-* Further development of the blockchain
-* Building free hospital in the community
-
-## For-profit projects
-Community dividends:
-
-Burning community tokens essentially equals to paying out dividends to all community members
-
-If the for-profit community-funded project eventually in due course of its economic activity burns more tokens, than was issued to it, the project increases general welfare
-
-Can have legally or technically (smart contract) defined % reward for project managers
-
-## Implications/assumptions
-No such models exists on any viable scale
-
-DAOs based on Open Economic model can scale and grow faster than other types of DAOs
-
-Wealth distribution will become much more smooth than with current models
-
-Society will become more open, transparent and responsible
-
-Open Economic Model can supply social welfare needs and deploy general well-being in much more efficient way, than existing government-tax model
-
-Open Economic model can, and probably will replace state-centric society organization
-
-
+In case community is not satisfied with the level of transparency, spending directions or any other properties of the project, it can revoke `community funding contract`.
 
 # Architecture
 
@@ -263,7 +201,7 @@ Please check [architecture](https://github.com/atomchange/wiki/blob/master/archi
 
 As an initial base, [Quorum](https://github.com/atomchaneg/quorum) can be used for first proof of concept.
 
-DPoS consesus and open economic model will be implemented as a smart contract (quorum moved consesus onto smart contract level).
+DPoS consensus and open economic model will be implemented as a smart contract (quorum moved consensus onto smart contract level).
 
 For the ethereum family chains we need to implement smart contract templates for validators.
 
@@ -283,7 +221,7 @@ Our goal is to make an open, easily extandable platform and standard for multibl
 
 First and most important use case of multiblockchain interaction is a token exchange.
 
-Considering iterative approach, the first sevaral milestones would be:
+Considering iterative approach, the first several milestones would be:
 1. FTT to ETH exchange
 2. FTT to BTC token exchange
 3. BTC to ETH exchange
@@ -348,7 +286,7 @@ First and main security measure is a stake requirement for the Validator: valida
 
 In case of security breach or lost funds, upon user complain, consensus of other validators can sweep out the stake of failed validator.
 
-Validator earns trust by succefully executing exchanges without user complains.
+Validator earns trust by successfully executing exchanges without user complains.
 
 Multiple validators can potentially participate in one swap (exchange operation) in order to reduce risks.
 
@@ -390,3 +328,9 @@ https://twitter.com/decredproject/status/910224860625780736
 https://github.com/decred/dcps/blob/master/dcp-0002/dcp-0002.mediawiki
 
 https://bitcoinmagazine.com/articles/atomic-swaps-how-the-lightning-network-extends-to-altcoins-1484157052/
+
+https://github.com/decred/atomicswap/#first-mainnet-dcr-ltc-atomic-swap
+
+https://en.bitcoin.it/wiki/Atomic_cross-chain_trading
+
+https://themerkle.com/what-is-an-atomic-swap/
