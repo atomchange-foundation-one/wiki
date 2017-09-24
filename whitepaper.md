@@ -88,7 +88,7 @@ After analyzing the current landscape of solutions, we can form the list of desi
 * Milestone-based, iterative funding for new projects
 * Full transparency
 * Ultimate power in the hands of the community
-* Effective was to incorporate both non-proft (general welfare) and for-profit (commercial) projects into community economy
+* Effective way to incorporate both non-proft (general welfare) and for-profit (commercial) projects into community economy
 
 Example use cases:
 * Set up several foundations of independent groups of developers for the codebase improvements
