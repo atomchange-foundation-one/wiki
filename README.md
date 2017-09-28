@@ -8,8 +8,6 @@ Please read and contemplate on the core values our community is based on, before
 4. Efforts should bring benefit to all community members
 5. Open dialog
 
-All our activity and decisions supposed to be based on these five values.
-
 ## [About](about.md)
 ## [Architecture](architecture.md)
 ## [Blockchain](blockchain.md)
