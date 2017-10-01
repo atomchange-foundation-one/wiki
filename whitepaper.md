@@ -372,3 +372,5 @@ https://github.com/decred/atomicswap/#first-mainnet-dcr-ltc-atomic-swap
 https://en.bitcoin.it/wiki/Atomic_cross-chain_trading
 
 https://themerkle.com/what-is-an-atomic-swap/
+
+https://www.wanchain.org - really good project
