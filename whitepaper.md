@@ -112,15 +112,17 @@ Amount limits for the `community funding contract` can be:
 
 In most cases there is no need to issue large amount of tokens at once. Most of the projects require regular ongoing funding. Therefore `community funding contract` can have multiple timeframe based limits - daily, monthly, yearly, lifetime, etc. Examples:
 * 100 000 tokens total
-* 100 labour-hour per month during the next 12 months
-* 500 labour-hour per month, without end time specified (until community will revoke the contract)
+* 100 labor-hour per month during the next 12 months
+* 500 labor-hour per month, without end time specified (until community will revoke the contract)
 
 Any `community funding contract` can be revoked on community voting. This is required to prevent further funding of failing projects, block compromised contracts or unscrupulous project managers.
 
 ## Board of Guardians
 
-`Board of Guardians` is group consisting from 3 to 12 community members elected by all tokenholders. The responsibility of the board is to approve any community community voting requests. This is required to avoid low quality, scam or malicious voting proposals.
+`Board of Guardians` is group consisting from 3 to 12 community members elected by all tokenholders. The responsibility of the board is to approve any community community voting requests. This is required to avoid low quality, scam or malicious voting proposals. To qualify as a `board of guardian` candidate, candidate should be in the `top 20%` token holders.
+
 Each member of the board receives 'salary', defined by a community via board-targeted `community funding contract`.
+
 
 ## Voting rules
 Each voting have `15 days` voting time window. Voting is considered successful with any rate of participation.
