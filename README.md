@@ -6,10 +6,6 @@
 ## [Open Economic Model](open_economic_model.md)
 ## [Whitepaper](whitepaper.md)
 ##
-#
-##
-#
-##
 Communication channels in telegram:
 
 [AtomChange General Chat (English)](https://t.me/AtomChangeGeneral)
