@@ -27,7 +27,9 @@ There are several elements mentioned in the definition:
 Our aim is to create a decentralized community platform governed by the community.
 First of all, community be ultimate source of decisions regarding how platform functions.
 
-In order to do this, community should be able to change also the rules how decisions are made in the community also.
+In order to do this, the community should be able to change also the rules how decisions are made in the community.
+
+> The sentence above seems out of place. Do you consider the AtomChange blockchain already such a change? If you want to ties this in to "forks are a way, but they are too divisive", I guess we can adapt this section.
 
 In all existing decentralized systems, end users or community members are already in some sense decision makers in a way that they choose what platform to use, and, if no one uses the platform, it dies.
 
@@ -133,16 +135,14 @@ Voters, who voted against majority are fined with `minority tax`. This is requir
 
 `Minority tax` is calculated in the following way:
 ```
-contractMaxIssuance = maximum amount of tokens can be issued by the funding contract in next 12 months
+contractMaxIssuance = maximum amount of tokens expected to be issued by the funding contract in next 12 month
 minorityTax =  contractMaxIssuance / tokensInExistance * 0.05
 ```
 
-It is expected, that not everyone will be able to follow up community voting requests. To do this properly, it will take time and expertise. Therefore, voting power of an account can be delegated to another account. We call such accounts `community activists`. If `community activist` votes against majority, `minority tax` applies proportionately to all his electorate.
+It is expected, that not everyone will be able to follow up community voting requests. To do this properly, it will take time and expertise. Therefore, voting power of an account can be delegated to another account. We call such accounts `community activists`. If `community activity` votes against majority, `minority tax` applies proportionately to all his electorate.
 
 An additional `qualification tax` applies to the `community activist` in case of minority voting.
-```
-Qualification tax = minority tax collected from electorate * 0.2
-```
+`Qualification tax = minority tax collected from electorate * 0.2`
 
 `Community activist` is allowed to vote only if he keeps at stake amount of tokens, sufficient to pay `qualification tax` in case of minority voting.
 
@@ -265,8 +265,8 @@ Later can be added:
 First and most important use case of multiblockchain interaction is a token exchange.
 
 Considering iterative approach, the first several milestones would be:
-1. FTT to ETH exchange
-2. FTT to BTC token exchange
+1. ATM to ETH exchange
+2. ATM to BTC token exchange
 3. BTC to ETH exchange
 4. Add more pairs
 
@@ -284,7 +284,7 @@ Validator provides his signature on both sides of the deal when both parties rel
 
 Validator can charge a fee on each validated exchange.
 
-## FTT to ETH exchange
+## ATM to ETH exchange
 
 Both networks are ethereum-family.
 
