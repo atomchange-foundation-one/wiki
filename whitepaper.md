@@ -356,7 +356,7 @@ Solution should fit following requirements:
 * Privacy on demand
 * Sharing of information is controlled by the owner of information
 * Multiple identity providers (verifiers) can exist
-* Governments can launch their own 'communities' with tokens, and provide their benefits only to those who are part of the community and follow specific set of rules (like providing information on transactions, transaction limitations, etc).
+* Governments can launch their own 'communities' with or without tokens, and provide their benefits only to those who are part of the community and follow specific set of rules (like providing information on transactions, transaction restrictions, counterparty verifications, etc).
 
 
 # Implications and Use Cases
