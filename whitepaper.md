@@ -14,22 +14,11 @@ Please read and contemplate on the core values our community is based on, before
 
 All our activity and decisions supposed to be based on these five values.
 
-## Building blocks
-There are several elements mentioned in the definition:
-1. AtomChange Blockchain - is a Delegated Proof of Stake general-purpose public decentralized blockchain.
-2. Open economic model, as a way to expand and enrich ecosystem.
-3. Decentralized multiblockchain interaction and exchange platform, as a first application implemented on the platform.
-
-# AtomChange blockchain
-
-
 ## Motivation and preface
 Our aim is to create a decentralized community platform governed by the community.
-First of all, community be ultimate source of decisions regarding how platform functions.
+First of all, community should be ultimate source of decisions regarding how platform functions.
 
-In order to do this, the community should be able to change also the rules how decisions are made in the community.
-
-> The sentence above seems out of place. Do you consider the AtomChange blockchain already such a change? If you want to ties this in to "forks are a way, but they are too divisive", I guess we can adapt this section.
+In order to do this, community should be able to change also the rules how decisions are made in the community also.
 
 In all existing decentralized systems, end users or community members are already in some sense decision makers in a way that they choose what platform to use, and, if no one uses the platform, it dies.
 
@@ -38,8 +27,15 @@ Eventually, fork is an event, when some part of the community does not agrees wi
 
 We do not see forks as an issue. Diversity is pre-requirement for the freedom of choice, the basic human right.
 
-Diversity creates problems only if there is an isolation. If there is free interaction between multiple platforms, open flow of ideas and values, diversity actually increases general well-being by offering more choice.
-Therefore we are building this platform.
+Diversity creates problems only if there is an isolation. If there is free interaction between multiple platforms, open flow of ideas and values, diversity actually increases general well-being by offering more choice. Therefore there is a big need for open, decentralized mechanisms for cross-chain interaction.
+
+## Building blocks
+There are several elements mentioned in the definition:
+1. AtomChange Blockchain - is a Delegated Proof of Stake general-purpose public decentralized blockchain.
+2. Open economic model, as a way to expand and enrich ecosystem.
+3. Decentralized multiblockchain interaction and exchange platform, as a first application implemented on the platform.
+
+# AtomChange blockchain
 
 ## Basic consensus
 The version of the platform end users accessing depends on a which version signing nodes (full nodes) running.
@@ -92,13 +88,6 @@ After analyzing the current landscape of solutions, we can form the list of desi
 * Ultimate power in the hands of the community
 * Effective way to incorporate both non-proft (general welfare) and for-profit (commercial) projects into community economy
 
-Example use cases:
-* Set up several foundations of independent groups of developers for the codebase improvements
-* Build roads in the city
-* Finance community-owned commercial enterprise
-* Build hospital for the community
-* Implement new project that is fully tied to the root tokens with new utility and the market, for example, Golem project, instead of issuing new token could tie its functionality directly to Ether.
-
 ## Emission model
 If we take analogy to the known things, emission of new tokens is essentially equal to the all community members paying taxes.
 
@@ -135,14 +124,16 @@ Voters, who voted against majority are fined with `minority tax`. This is requir
 
 `Minority tax` is calculated in the following way:
 ```
-contractMaxIssuance = maximum amount of tokens expected to be issued by the funding contract in next 12 month
+contractMaxIssuance = maximum amount of tokens can be issued by the funding contract in next 12 months
 minorityTax =  contractMaxIssuance / tokensInExistance * 0.05
 ```
 
-It is expected, that not everyone will be able to follow up community voting requests. To do this properly, it will take time and expertise. Therefore, voting power of an account can be delegated to another account. We call such accounts `community activists`. If `community activity` votes against majority, `minority tax` applies proportionately to all his electorate.
+It is expected, that not everyone will be able to follow up community voting requests. To do this properly, it will take time and expertise. Therefore, voting power of an account can be delegated to another account. We call such accounts `community activists`. If `community activist` votes against majority, `minority tax` applies proportionately to all his electorate.
 
 An additional `qualification tax` applies to the `community activist` in case of minority voting.
-`Qualification tax = minority tax collected from electorate * 0.2`
+```
+Qualification tax = minority tax collected from electorate * 0.2
+```
 
 `Community activist` is allowed to vote only if he keeps at stake amount of tokens, sufficient to pay `qualification tax` in case of minority voting.
 
@@ -265,8 +256,8 @@ Later can be added:
 First and most important use case of multiblockchain interaction is a token exchange.
 
 Considering iterative approach, the first several milestones would be:
-1. ATM to ETH exchange
-2. ATM to BTC token exchange
+1. FTT to ETH exchange
+2. FTT to BTC token exchange
 3. BTC to ETH exchange
 4. Add more pairs
 
@@ -284,7 +275,7 @@ Validator provides his signature on both sides of the deal when both parties rel
 
 Validator can charge a fee on each validated exchange.
 
-## ATM to ETH exchange
+## FTT to ETH exchange
 
 Both networks are ethereum-family.
 
@@ -342,6 +333,45 @@ Score of particular validator for a specific order is calcualted dynamically:
 FactualScore = ValidatorScore * (ValidatorStake/OrderSize)
 ```
 
+# Identity Management and Community Safety
+
+## Intro
+Right now there is tension between two groups of thought.
+* First group believes that Government should be able to protect its citizens and have full instruments for it, like surveillance, capital control and identification instruments
+* Another group believes that personal freedom is utmost value and no government should be able to interfere or dictate what to say, what to consume, with whom to interact, what to do for individuals and organizations.
+
+Both options poses risk of abuse.
+* In first case, governments can start abusing their powers and turn into dictatorships, or even worse, corrupt dictatorships.
+* In another case, certain individuals will start abusing their freedom in a way that is harmful to whole society.
+
+We believe that society should find a golden mean with proper place of each element.
+
+There is always be someone who will want complete freedom, but majority will prefer to bargain certain limitations in order to receive benefits of being a part of more safer community. And we believe that condition of the deal should be simple and transparent for both sides.
+
+Upcoming technological trends radically increases legal and physical mobility and more people and organizations getting a choice which jurisdiction to choose. The process is inevitable and competition between governments for people and businesses will become more tense.
+
+## Solution
+There are multiple identity management startups moving into decentralized identity field. Using open economic model incentives best solutions can be integrated on the platform.
+Solution should fit following requirements:
+* Privacy on demand
+* Sharing of information is controlled by the owner of information
+* Multiple identity providers (verifiers) can exist
+* Governments can launch their own 'communities' with tokens, and provide their benefits only to those who are part of the community and follow specific set of rules (like providing information on transactions, transaction limitations, etc).
+
+
+# Implications and Use Cases
+* Completely new, transparent, safe and iterative way of funding
+* Liquidity platform - with the growth of the community, more and more tokens will be added to the exchange platform.
+* Way to interact between blockchains on further steps of development
+* Smart wallets that keep desired portfolio composition
+* Trustless investment funds based on smart wallets infrastructure
+* Many projects incorporated into the same token infrastructure, way to mplement new project that is fully tied to the root tokens with new utility and the market, for example, Golem project, instead of issuing new token could tie its functionality directly to Ether.
+* Effective way to improve community infrastructure
+* End-user have a choice in which community to participate, by choosing which tokens to hold
+* Ability to up several foundations of independent groups of developers for the codebase improvements
+* Way to fund non-profit projects and participate in communities
+* Build roads and hospitals in the city or community
+* Direct competition of the governments to provide more attractive services
 
 
 
