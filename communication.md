@@ -1,6 +1,5 @@
 Communication channels in telegram:
 
-##AtomChange General Chat (English)
-## [AtomChange Chat (English)](communication.md)
+## [AtomChange Chat (English)](https://t.me/AtomChangeGeneral)
 
-## [AtomChange Chat (Russian)](communication.md)
+## [AtomChange Chat (Russian)](https://t.me/AtomChangeRuGeneral)
